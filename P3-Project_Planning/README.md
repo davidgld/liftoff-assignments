@@ -16,6 +16,8 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
+[Trello Tracker stock.io](https://trello.com/b/Tc3jAsLF/stockio)
+
 ### Project Repo Link
 
 (Include a link to your project on GitHub)
