@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [David G. GitHub Account](https://github.com/davidgld)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[David Gonzalez LinkedIN Account](https://www.linkedin.com/in/david-gonzalez-ab6328124/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
